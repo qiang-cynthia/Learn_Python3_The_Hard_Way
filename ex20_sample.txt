@@ -1,0 +1,3 @@
+Hello, world!
+I'm a newbie for python.
+I think it will be long to get familiar with the language.
